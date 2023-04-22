@@ -2,7 +2,7 @@
 Use the Raspberry Pi Pico as an multimedia knob to control your PC volume and play/pause music.
 
 As a base of the code, I use [Raspberry Pi Pico - CircuitPython volume knob](https://gist.github.com/maxmacstn/805991009e9302977f694e5b17a62b73).
-### Whats better in this version?
+### What's better in this version?
 With the original version, the knob very often stopped working. Either after sleep, reboot or just randomly while the PC is on. With this version it works very reliably. I haven't had to re-plug the Pi Pico for a few weeks now and it survived all sleep/wake cycles and reboots.
 
 #### Some more little improvements:
