@@ -5,6 +5,8 @@ As a base of the code, I use [Raspberry Pi Pico - CircuitPython volume knob](htt
 ### What's better in this version?
 With the original version, the knob very often stopped working. Either after sleep, reboot or just randomly while the PC is on. With this version it works very reliably. I haven't had to re-plug the Pi Pico for a few weeks now and it survived all sleep/wake cycles and reboots.
 
+_Note: When opening Thonny on the PC it might stop working again. Close Thonny (or better restart you PC), then plug out, wait 5-10 secs until Windows realizes it, then plug it back in._
+
 #### Some more little improvements:
 - Prints messages only when in debug mode
 - Does not automatically mount the storage. This cleans up the file explorer a bit. To edit the code, hold the button down while plugging the Pi in. If that does not work you can alternatively type the commands mentioned in the program at the top.
