@@ -9,7 +9,7 @@ from adafruit_hid.keycode import Keycode
 from adafruit_hid.consumer_control import ConsumerControl
 from adafruit_hid.consumer_control_code import ConsumerControlCode
 
-print("== Pi Pico multifunction knob 2.0 ==")
+print("== Pi Pico multifunction knob 2.1 ==")
 #
 # IMPORTANT FOR EDITING THIS SCRIPT
 # Press down the knob while plugging in to be able to edit the code.
