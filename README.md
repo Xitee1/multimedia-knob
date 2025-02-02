@@ -1,6 +1,9 @@
 # multimedia-knob
 ![image-preview](https://user-images.githubusercontent.com/59659167/234576393-500a1231-701e-4776-b843-6a909da3d1f8.png)
 
+> [!NOTE]  
+> There's a new version, [luckkyboy/multimedia-knob](https://github.com/luckkyboy/multimedia-knob), which adds some more improvements and brings back the different modes. Since these are significant changes and he hasn't made a PR, I recommend using his repo instead, as there probably won't be further updates in this repo because I'm using his version myself now and it has been working great so far.
+
 Use the Raspberry Pi Pico as an multimedia knob to control your PC volume and play/pause music.
 
 As a base of the code, I use [Raspberry Pi Pico - CircuitPython volume knob](https://gist.github.com/maxmacstn/805991009e9302977f694e5b17a62b73), made by [maxmacstn](https://gist.github.com/maxmacstn).
